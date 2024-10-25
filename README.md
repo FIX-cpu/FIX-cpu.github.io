@@ -1,1 +1,1 @@
-View my web page, go to https//fix-cpu.github.io
+View my web page, go to https://FIX-cpu.github.io
